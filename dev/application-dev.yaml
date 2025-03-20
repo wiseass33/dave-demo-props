@@ -1,0 +1,3 @@
+console:
+  environment:
+    msg: The service is running in the dev environment.  This message is housed in the dev (environmental level) properties file.

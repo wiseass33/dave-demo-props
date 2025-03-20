@@ -1,0 +1,6 @@
+server:
+  feign:
+    send:
+      msg: Sending a response to the calling service.  This message is housed in the dave-dem-service service specific properties file.
+    rcv:
+      msg: Received a request from the calling service.  This message is housed in the dave-dem-service service specific properties file. 

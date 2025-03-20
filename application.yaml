@@ -1,0 +1,3 @@
+console:
+  welcome:
+    msg: A dave demo service has started.  This message originates from the global (all services, all environments) properties file.
