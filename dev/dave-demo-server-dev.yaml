@@ -4,4 +4,4 @@ service:
 
 demo:
   console:
-    message: This consol message was provided by the \"dave-demo-server\" environment and service specific properties file.
+    message: This console message was provided by the \"dave-demo-server\" environment and service specific properties file.
