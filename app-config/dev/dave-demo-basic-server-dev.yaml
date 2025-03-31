@@ -7,4 +7,4 @@ demo:
     message: This test console message was provided by the "dave-demo-basic-server" environment and service specific properties file.
   msg:
     logging:
-      iteration: 10
+      iterations: 10
